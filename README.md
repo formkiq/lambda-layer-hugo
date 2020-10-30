@@ -1,2 +1,4 @@
-# lambda-layer-hugo
-AWS Lambda Layer with Hugo
+
+# AWS Lambda Layer Hugo
+
+AWS Lambda Layer that has HUGO executable.
