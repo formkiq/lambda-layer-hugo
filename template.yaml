@@ -4,7 +4,7 @@ Description: >
   AWS Lambda Layer with Hugo
 
 Resources:
-  GitLayer:
+  HugoLayer:
     Type: AWS::Serverless::LayerVersion
     Properties:
       ContentUri: dist/layer-hugo-0.76.3.zip
